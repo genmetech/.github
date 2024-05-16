@@ -13,6 +13,6 @@ overhead. </pre>
  |-----|-----|-----|-----|
 <h3> Cofounders (To be added) : </h3>
 Parth Sarthi, CEO
-[Suryavir Kapur](https://suryavirkapur.com/ "Suryavir Kapur"), Founding Engineer 
+[Suryavir Kapur](https://suryavirkapur.com/ "Suryavir Kapur") , Founding Engineer 
 
 
