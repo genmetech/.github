@@ -13,7 +13,3 @@ overhead. </pre>
  |-----|-----|-----|-----|
 <h3> Cofounders (To be added) : </h3>
 Parth Sarthi, CEO
-[Suryavir Kapur](https://suryavirkapur.com "Suryavir Kapur") , Founding Engineer 
-
-
-[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
